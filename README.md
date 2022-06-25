@@ -1,1 +1,1 @@
-Estudo aprofundado na linguagem Javascript.
+Estudo aprofundado na linguagem Java
